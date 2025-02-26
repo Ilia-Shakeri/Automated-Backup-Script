@@ -4,7 +4,7 @@ clear
 
 SECONDS=0
  
-echo "Welcome to my Automated Backup Script"
+echo "Welcome To My Automated Backup Script"
 
 #list of system directories that needs root access
 System_Paths=("/etc" "/var" "/root" "/usr" "/boot" "/bin" "/sbin")
